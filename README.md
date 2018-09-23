@@ -1,0 +1,2 @@
+# GamemodeSwitecherUI
+Commands ; /gmgui
